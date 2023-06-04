@@ -121,6 +121,9 @@ footer #copyright-msg {
     input{
         width: 50%;
     }
+    header i{
+        display : none;
+    }
     button{
         width: 20%;
         margin-left: 10px;
