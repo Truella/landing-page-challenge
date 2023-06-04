@@ -121,7 +121,7 @@ footer #copyright-msg {
     input{
         width: 50%;
     }
-    .fa-solid{
+   #navBar-toggle-btn{
         display : none;
     }
     button{
