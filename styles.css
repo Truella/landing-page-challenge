@@ -121,9 +121,6 @@ footer #copyright-msg {
     input{
         width: 50%;
     }
-   #navBar-toggle-btn{
-        display : none;
-    }
     button{
         width: 20%;
         margin-left: 10px;
@@ -180,5 +177,8 @@ footer #copyright-msg {
     footer{
         margin: 0 auto;
         width: 80%;
+    }
+        #navBar-toggle-btn{
+        display: none;
     }
 }
