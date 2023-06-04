@@ -121,7 +121,7 @@ footer #copyright-msg {
     input{
         width: 50%;
     }
-    header i{
+    .fa-solid{
         display : none;
     }
     button{
